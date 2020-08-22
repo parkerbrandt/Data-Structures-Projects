@@ -1,0 +1,24 @@
+The size of the array is 14
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+90 (200 (300 ) 80 (55 45 ) 75 15 (35 (25 30 10 ) 85 ) )
+The element 80 is found at index: 5
+The element 200 is found at index: 11
+The parent of 200 is: 90
+Element removed
+Element removed
+Element removed
+90 (300 55 (45 ) 75 25 (35 (30 10 ) 85 ) )
+Element inserted
+90 (300 55 (45 (800 ) ) 75 25 (35 (30 10 ) 85 ) )

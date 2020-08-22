@@ -1,0 +1,36 @@
+Line segment added
+
+Line segment added
+
+Line segment added
+
+Line segment removed
+
+Line segment added
+
+Line Segment 1:
+(2, -4),(-3, 1)
+Slope:-1
+Midpoint:(-0.5, -1.5)
+X Intercept:-2
+Y Intercept:-2
+Length:7.07
+y=-1*x+-2
+Line Segment 2:
+(3, 5),(2, 4)
+Slope:1
+Midpoint:(2.5, 4.5)
+X Intercept:-2
+Y Intercept:2
+Length:1.41
+y=1*x+2
+Line Segment 3:
+(4, 0),(1, 2)
+Slope:-0.66
+Midpoint:(2.5, 1)
+X Intercept:4
+Y Intercept:2.67
+Length:3.61
+y=-0.66*x+2.67
+
+The Line segment closest to the given point is:Line segment 2

@@ -1,0 +1,14 @@
+The size of the array is 11
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+Element inserted
+18 (70 (29 (12 ) ) 44 (19 20 92 ) )
+The element 12 is found at index: 7
+The element 20 is found at index: 4
+Element removed
+18 (70 (29 (12 ) ) 19 (20 92 ) )
